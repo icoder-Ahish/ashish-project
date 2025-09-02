@@ -10,5 +10,5 @@ variable "aws_type" {
 
 variable "aws_ami" {
   description = "AWS ami"
-  default = "ami-00ca32bbc84273381"
+  default = "ami-0b016c703b95ecbe4"
 }
